@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=cddb
+IAge=2
+Name=CDDB
+Description=CD DataBase Search
+Authors=Fabien Carrion <fabien.carrion@gmail.com>
+Copyright=Copyright © 2007 Fabien Carrion
+Website=http://www.rhythmbox.org, http://fabien.carrion.free.fr
